@@ -1,5 +1,5 @@
 # Hiya, I’m Ian
-Full Stack developer in constant development
+Full Stack developer in constant development.
 
 I take coding **very** seriously. <br>
 
