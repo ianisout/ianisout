@@ -11,7 +11,7 @@ I take coding **very** seriously. <br>
 
 - <a href="https://github.com/ianisout/BoardHero">Board Hero</a>: A fully functional gamified Kanban Board
 - <a href="https://github.com/ianisout/spaceshooter-project">Space Shooter</a>: a shooting style game with Rick and Morty elements
-- <a href="https://github.com/ianisout/unbore-thyself">Unbore Thyself</a>: a simple proved to fix boredom, doctors recommend it
+- <a href="https://github.com/ianisout/unbore-thyself">Unbore Thyself</a>: a simple and proved way to fix boredom, recommended by doctors
 - <a href="https://github.com/ianisout/dino-game-rick">Dino</a>: a Dino style game with Rick and Morty elements (again)
 - <a href="https://github.com/ianisout/instragado">Instragado</a>: a landing page for a more candid social-network (Portuguese)
 - More to come. Some of my best work ain't public.<br>
