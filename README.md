@@ -15,7 +15,7 @@ I take coding **very** seriously. <br>
 - <a href="https://github.com/ianisout/dino-game-rick">Dino</a>: a Dino style game with Rick and Morty elements (again)
 - <a href="https://github.com/ianisout/instragado">Instragado</a>: a landing page for a more candid social-network (Portuguese)
 - More to come. Some of my best work ain't public.<br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<small><i>↑ that's what she said</i></small>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<sub><i>↑ that's what she said</i></sub>
 
 <hr>
 
