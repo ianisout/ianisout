@@ -1,10 +1,6 @@
 # Hiya, I’m Ian
 Full Stack developer in constant development.
 
-I take coding **very** seriously. <br>
-
-<sub>Also humor. </sub>
-
 <hr>
 
 ### Here are a couple of fun projects for you to get started seeing what I do:
