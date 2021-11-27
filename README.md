@@ -3,7 +3,7 @@ Full Stack developer in constant development.
 
 <hr>
 
-### Here are a couple of fun projects for you to get started seeing what I do:
+### Here are a couple of fun projects to check out:
 
 - <a href="https://github.com/ianisout/BoardHero">Board Hero</a>: A fully functional gamified Kanban Board, so you can have fun while being _agile_
 - <a href="https://github.com/ianisout/search-automation-xlsx">Search automation + manipulation of excel files</a>: a script that navigates a website and fills out boring excel files for you
