@@ -9,7 +9,7 @@ Full Stack developer in constant development.
 - <a href="https://ianisout.github.io/spaceshooter-project/">Space Shooter</a>: a shooting style game with Rick and Morty elements (<a href="https://github.com/ianisout/spaceshooter-project">repo</a>)
 - <a href="https://ianisout.github.io/instragado/">Instragado</a>: a landing page for a more candid social-network, Portuguese (<a href="https://github.com/ianisout/instragado">repo</a>)
 - <a href="https://ianisout.github.io/dino-game-rick/">Dino</a>: a Dino style game with Rick and Morty elements, again (<a href="https://github.com/ianisout/dino-game-rick">repo</a>)
-- <a href="https://ianisout.github.io/email-template-generator/">Email template generator</a>: Easily customizable email generator – initially for a support position, but do with it as you will (<a href="hhttps://github.com/ianisout/email-template-generator/">repo</a>)
+- <a href="https://ianisout.github.io/email-template-generator/">Email template generator</a>: Easily customizable email generator – initially for a support position, but do with it as you will (<a href="https://github.com/ianisout/email-template-generator">repo</a>)
 
 ### Go for it if you code (or are curious):
 - <a href="https://github.com/ianisout/BoardHero">Board Hero</a>: A fully functional gamified Kanban Board, so you can have fun while being _agile_
