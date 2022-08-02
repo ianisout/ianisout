@@ -5,7 +5,6 @@ Full Stack developer in constant development.
 
 <h3>A couple of fun projects to check out, go for it:</h3>
 
-- <a href="https://www.curitibajazzfestival.com.br" target="_blank">Curitiba Jazz Festival</a>: awesome jazz festival in Curitiba. If you can't come down here, at least see the website...
 - <a href="https://character-creation-api.herokuapp.com/" target="_blank">Pixel character creation API</a>: want data to create and implement avatar features? Look no further! (<a href="https://github.com/ianisout/character-creation-api" target="_blank">repo</a>)
 - <a href="https://feedyourcat-ui.netlify.app/" target="_blank"> FeedYourCat UI</a>: Practice project for a feedback app. PS: Update/delete won't stick - don't mess with my current feedbacks! (<a href="https://github.com/ianisout/feedback-app" target="_blank">repo</a>)
 - <a href="https://unbore-thyself.herokuapp.com/" target="_blank">Unbore Thyself</a>: a simple and proved way to fix boredom, recommended by doctors (<a href="https://github.com/ianisout/unbore-thyself" target="_blank">repo</a>)
